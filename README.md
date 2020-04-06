@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas Challenge
 
 Using the information on the Heroes of Pymoli csv, I was able to analyze the data by creating various data frames. From those data summaries, the three following trends emerged.
 
